@@ -12,3 +12,6 @@ dist/.sizecache.json
 build/.sizecache.json
 node_modules
 
+
+*.nupkg
+nuget/Content

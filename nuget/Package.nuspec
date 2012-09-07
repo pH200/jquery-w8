@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>jQuery-W8</id>
+    <version>1.8.1</version>
+    <authors>pH-minamo</authors>
+    <owners>pH-minamo</owners>
+    <licenseUrl>https://raw.github.com/pH-minamo/jquery-w8/master/MIT-LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/pH-minamo/jquery-w8</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Specialized jQuery for Windows 8 apps development</description>
+    <tags>jQuery windows8 win8 winjs metro</tags>
+  </metadata>
+</package>
