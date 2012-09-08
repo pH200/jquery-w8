@@ -1,6 +1,7 @@
 ﻿/*!
  * Modified jQuery JavaScript Library optimized for working with Windows 8
  * See http://www.incloud.de/2012/08/windows-8-using-jquery-for-app-development
+ * https://github.com/pH-minamo/jquery-w8
  *
  * jQuery JavaScript Library v1.8.1
  * http://jquery.com/
