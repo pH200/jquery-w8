@@ -23,3 +23,11 @@ http://msdn.microsoft.com/en-us/library/windows/apps/hh849088.aspx
  - Wraps all unsafe codes with execUnsafeLocalFunction
  - File is encoded in UTF8 with BOM
  - Nuget package available for lazy people
+
+## nuget
+
+```
+PM> Install-Package jQuery-W8
+```
+
+https://nuget.org/packages/jQuery-W8
